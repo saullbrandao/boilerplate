@@ -1,5 +1,5 @@
-import Main from 'components/Main'
+import MainTemplate from 'templates/MainTemplate'
 
-const Home = () => <Main />
+const Home = () => <MainTemplate />
 
 export default Home
